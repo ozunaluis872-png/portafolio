@@ -37,4 +37,4 @@ Comunidad dedicada a aprender y compartir conocimientos en programación y tecno
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Las estadisticas del repositorio
-![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=condorcoders&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condorcoders&layout=compact&theme=dark)
+![Luis Ozuna GitHub stats](https://github-readme-stats.vercel.app/api?username=ozunaluis872-png&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozunaluis872-png&layout=compact&theme=dark)
