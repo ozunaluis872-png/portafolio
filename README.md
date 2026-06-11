@@ -14,7 +14,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ah7zYsBU)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%235865F.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://discord.gg/ah7zYsBU)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%235865F.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=573004177979&text=Hola%20Luis,%20me%20interesa%20tu%20servisio%20de%20desarrollo)
 
 Comunidad dedicada a aprender y compartir conocimientos en programación y tecnología. Estamos aquí para aprender juntos, compartir experiencias, resolver desafíos y ayudar a cada miembro para que alcance sus metas.
 
