@@ -2,7 +2,7 @@
 
 # <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycTlubGdjOGxjcDNzc2E5OWpkN2pjMGN0YzZlazMzcG4yOWluYjZxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="100"/> Bienvenid@ al GitHub de Luis Ozuna
 
-![Banner de Luis Ozuna](?)
+//![Banner de Luis Ozuna](?)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@luisozuna2845)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@luis_ozuna182)
