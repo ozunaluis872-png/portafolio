@@ -3,180 +3,265 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portafolio - Luis Ozuna</title>
-
-  <!-- Iconos -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      background: linear-gradient(135deg, #0f172a, #020617);
-      color: #e2e8f0;
-    }
-
-    header {
-      padding: 60px 20px;
-      text-align: center;
-      background: radial-gradient(circle, #1e293b, #020617);
-    }
-
-    header h1 {
-      margin: 0;
-      color: #38bdf8;
-      font-size: 36px;
-    }
-
-    header p {
-      opacity: 0.8;
-      margin-top: 10px;
-    }
-
-    .btn {
-      display: inline-block;
-      margin: 10px;
-      padding: 10px 20px;
-      border-radius: 8px;
-      background: #38bdf8;
-      color: #020617;
-      text-decoration: none;
-      font-weight: bold;
-      transition: 0.3s;
-    }
-
-    .btn:hover {
-      background: #0ea5e9;
-    }
-
-    section {
-      padding: 30px;
-      max-width: 1000px;
-      margin: auto;
-    }
-
-    .card {
-      background: #020617;
-      padding: 20px;
-      border-radius: 15px;
-      margin-bottom: 20px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.4);
-      transition: 0.3s;
-    }
-
-    .card:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 15px 35px rgba(56,189,248,0.2);
-    }
-
-    h2 { color: #38bdf8; }
-
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 20px;
-    }
-
-    .project img {
-      width: 100%;
-      border-radius: 10px;
-      margin-bottom: 10px;
-    }
-
-    footer {
-      text-align: center;
-      padding: 20px;
-      background: #020617;
-    }
-
-    a { color: #38bdf8; }
-
-    .whatsapp-float {
-      position: fixed;
-      width: 60px;
-      height: 60px;
-      bottom: 20px;
-      right: 20px;
-      background-color: #25d366;
-      color: white;
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 30px;
-      box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
-    }
-  </style>
+  <title>Luis Ozuna | Portafolio profesional</title>
+  <meta name="description" content="Portafolio profesional de Luis Ozuna, Desarrollador de Software. Proyectos en ASP.NET MVC, Flutter, Python, etc y bases de datos." />
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" referrerpolicy="no-referrer" />
 </head>
 <body>
 
-<header>
-  <h1>Luis Ozuna</h1>
-  <p>Desarrollador de Software Junior</p>
-
-  <a href="https://api.whatsapp.com/send?phone=573004177979&text=Hola%20Luis,%20me%20interesa%20tu%20servisio%20de%20desarrollo" class="btn">WhatsApp</a>
-  <a href="https://ozunaluis872-png.github.io/portafolio" class="btn">GitHub</a>
-  <a href="#" class="btn">Descargar CV</a>
-</header>
-
-<section>
-  <div class="card">
-    <h2>👤 Sobre mí</h2>
-    <p>
-      Tecnólogo en Análisis y Desarrollo de Software egresado del SENA, con experiencia en el desarrollo de aplicaciones web y móviles. He construido soluciones desde cero, abarcando frontend, backend e integración con bases de datos.
-      <br><br>
-      Manejo lenguajes como HTML, PHP, Java, JavaScript y C#, junto con tecnologías como Flutter y ASP.NET. Tengo experiencia en bases de datos MySQL y PostgreSQL.
-      <br><br>
-      Me destaco por mi capacidad de aprendizaje, adaptabilidad y enfoque en la solución de problemas.
-    </p>
-  </div>
-
-  <div class="card">
-    <h2>🚀 Proyectos</h2>
-    <div class="grid">
-
-      <div class="project">
-        <img src="https://via.placeholder.com/300x200" alt="Proyecto 1">
-        <h3>Plataforma Colegio Panamericano</h3>
-        <p>Plataforma web para evaluaciones, capacitaciones y generación automática de certificados, junto con aplicación móvil institucional.</p>
+<!-- HERO -->
+<header class="hero">
+  <nav class="top-nav" aria-label="Navegación principal">
+    <div class="brand">Luis Ozuna</div>
+    <ul class="nav-links">
+      <li><a href="#sobre-mi">Sobre mí</a></li>
+      <li><a href="#proyectos">Proyectos</a></li>
+      <li><a href="#tecnologias">Tecnologías</a></li>
+      <li><a href="#experiencia">Experiencia</a></li>
+      <li><a href="#contacto">Contacto</a></li>
+      <li><a href="cv-luis-ozuna.pdf" download>CV</a></li>
+    </ul>
+  </nav>
+  <div class="hero-content">
+    <div class="profile">
+      <img src="img/perfil.jpg" alt="Foto de perfil de Luis Ozuna">
+    </div>
+    <div class="info">
+      <p class="eyebrow">Desarrollador de Software | Tecnólogo SENA</p>
+      <h1>Hola, soy Luis Ozuna</h1>
+      <h2>Construyo aplicaciones web, móviles y soluciones con bases de datos</h2>
+      <p>Desarrollador con experiencia en proyectos de frontend, backend y mobile. Me especializo en ASP.NET MVC, Flutter y bases de datos PostgreSQL/MySQL, con enfoque en calidad, usabilidad y resultados empresariales.</p>
+      <div class="buttons">
+        <a class="button primary" href="https://github.com/ozunaluis872-png" target="_blank" rel="noopener noreferrer">Ver GitHub</a>
+        <a class="button secondary" href="https://wa.me/573004177979?text=Hola%20Luis,%20vi%20tu%20portafolio%20y%20estoy%20interesado%20en%20desarrollar%20un%20proyecto%20de%20software.%20Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20los%20servicios%20que%20ofreces,%20tu%20experiencia%20y%20c%C3%B3mo%20podr%C3%ADamos%20colaborar%20para%20llevar%20esta%20idea%20a%20cabo.%20%C2%BFTienes%20disponibilidad%20para%20una%20llamada%20o%20reuni%C3%B3n?
+" target="_blank" rel="noopener noreferrer">Enviar WhatsApp</a>
+        <a class="button outline" href="cv-luis-ozuna.pdf" download>Descargar CV</a>
       </div>
-
-      <div class="project">
-        <img src="https://via.placeholder.com/300x200" alt="Proyecto 2">
-        <h3>App de Ciclismo</h3>
-        <p>Aplicación móvil desarrollada en Flutter para la gestión de usuarios y actividades relacionadas con ciclismo.</p>
-      </div>
-
     </div>
   </div>
+</header>
 
-  <div class="card">
-    <h2>🛠️ Tecnologías</h2>
-    <ul>
-      <li>Flutter</li>
-      <li>Dart</li>
-      <li>C#</li>
-      <li>ASP.NET MVC</li>
-      <li>Entity Framework</li>
-      <li>MySQL</li>
-      <li>PostgreSQL</li>
-    </ul>
-  </div>
+<main>
 
-  <div class="card">
-    <h2>📞 Contacto</h2>
-    <p><i class="fa-brands fa-whatsapp"></i> +57 300 417 7979</p>
-    <p>Email: Ozunaluis872@gmail.com</p>
-    <p>GitHub: https://github.com/ozunaluis872-png</p>
+<!-- SOBRE MI -->
+<section id="sobre-mi" class="section about">
+  <h2 class="title">Sobre mí</h2>
+  <div class="card card-grid">
+    <div>
+      <p>Soy Tecnólogo en Análisis y Desarrollo de Software egresado del SENA. Me apasiona crear soluciones tecnológicas que resuelven problemas reales y aportan valor al usuario.</p>
+      <p>Tengo experiencia en desarrollo de aplicaciones web, móviles y administración de bases de datos. He trabajado con ASP.NET MVC, C#, Flutter, Dart, JavaScript, Python, Java y PHP.</p>
+    </div>
+    <div>
+      <p>Mi enfoque incluye diseño de interfaces accesibles, lógica de negocio robusta y despliegue eficiente. Uso buenas prácticas de programación y metodologías ágiles para entregar resultados confiables.</p>
+      <p>Soy comprometido, analítico y orientado a resultados. Disfruto trabajar en equipo y aprender nuevas tecnologías para mejorar cada proyecto.</p>
+    </div>
   </div>
 </section>
 
-<a href="https://api.whatsapp.com/send?phone=573004177979&text=Hola%20Luis,%20me%20interesa%20tu%20servisio%20de%20desarrollo" class="whatsapp-float">
-  <i class="fa-brands fa-whatsapp"></i>
-</a>
+<!-- ESTADISTICAS -->
+<section>
+  <div class="stats">
+    <div class="stat">
+      <h3>5+</h3>
+      <p>Proyectos</p>
+    </div>
+    <div class="stat">
+      <h3>18+</h3>
+      <p>Meses aprendiendo</p>
+    </div>
+    <div class="stat">
+      <h3>8+</h3>
+      <p>Tecnologías</p>
+    </div>
+  </div>
+</section>
 
-<footer>
-  <p>© 2026 - Luis Ozuna</p>
+<!-- TECNOLOGIAS -->
+<section id="tecnologias" class="section technologies">
+  <h2 class="title">Tecnologías</h2>
+  <div class="tech-grid-horizontal">
+    <div class="tech">
+      <i class="fab fa-cuttlefish"></i>
+      <p>C#</p>
+    </div>
+    <div class="tech">
+      <i class="fab fa-java"></i>
+      <p>Java</p>
+    </div>
+    <div class="tech">
+      <i class="fab fa-js"></i>
+      <p>JavaScript</p>
+    </div>
+    <div class="tech">
+      <i class="fab fa-python"></i>
+      <p>Python</p>
+    </div>
+    <div class="tech">
+      <i class="fab fa-php"></i>
+      <p>PHP</p>
+    </div>
+    <div class="tech">
+      <i class="fas fa-code-branch"></i>
+      <p>Dart</p>
+    </div>
+    <div class="tech">
+      <i class="fab fa-html5"></i>
+      <p>HTML5</p>
+    </div>
+    <div class="tech">
+      <i class="fab fa-css3"></i>
+      <p>CSS3</p>
+    </div>
+    <div class="tech">
+      <i class="fab fa-react"></i>
+      <p>ASP.NET</p>
+    </div>
+    <div class="tech">
+      <i class="fab fa-flutter"></i>
+      <p>Flutter</p>
+    </div>
+    <div class="tech">
+      <i class="fas fa-database"></i>
+      <p>PostgreSQL</p>
+    </div>
+    <div class="tech">
+      <i class="fas fa-database"></i>
+      <p>MySQL</p>
+    </div>
+    <div class="tech">
+      <i class="fab fa-git"></i>
+      <p>Git</p>
+    </div>
+    <div class="tech">
+      <i class="fab fa-github"></i>
+      <p>GitHub</p>
+    </div>
+    <div class="tech">
+      <i class="fas fa-cube"></i>
+      <p>Entity Framework</p>
+    </div>
+    <div class="tech">
+      <i class="fab fa-cuttlefish"></i>
+      <p>C++</p>
+    </div>
+  </div>
+</section>
+
+<!-- PROYECTOS -->
+<section id="proyectos" class="section projects">
+  <h2 class="title">Proyectos destacados</h2>
+  <div class="project-grid">
+    <article class="project-card">
+      <div class="project-icon">
+        <i class="fas fa-truck-moving"></i>
+      </div>
+      <div class="project-content">
+        <h3>LOGINOVA</h3>
+        <p class="project-description">Sistema integral de gestión logística con funcionalidades de seguimiento de recogidas, gestión de rutas y administración de clientes y conductores.</p>
+        <div class="project-features">
+          <span class="feature">Gestión de clientes</span>
+          <span class="feature">Rutas optimizadas</span>
+          <span class="feature">Reportes en tiempo real</span>
+        </div>
+        <p class="project-tech">ASP.NET MVC · C# · PostgreSQL · JavaScript</p>
+        <a class="project-link" href="https://github.com/ozunaluis872-png" target="_blank" rel="noopener noreferrer">
+          <i class="fab fa-github"></i> Ver en GitHub
+        </a>
+      </div>
+    </article>
+
+    <article class="project-card">
+      <div class="project-icon">
+        <i class="fas fa-graduation-cap"></i>
+      </div>
+      <div class="project-content">
+        <h3>Colegio Panamericano</h3>
+        <p class="project-description">Plataforma educativa completa con sistema de evaluaciones, generación automática de certificados e integración de aplicación móvil institucional.</p>
+        <div class="project-features">
+          <span class="feature">Sistema de evaluaciones</span>
+          <span class="feature">Certificados automáticos</span>
+          <span class="feature">App móvil integrada</span>
+        </div>
+        <p class="project-tech">ASP.NET MVC · C# · MySQL · Flutter</p>
+        <a class="project-link" href="https://github.com/ozunaluis872-png" target="_blank" rel="noopener noreferrer">
+          <i class="fab fa-github"></i> Ver en GitHub
+        </a>
+      </div>
+    </article>
+
+    <article class="project-card">
+      <div class="project-icon">
+        <i class="fas fa-biking"></i>
+      </div>
+      <div class="project-content">
+        <h3>App de Ciclismo</h3>
+        <p class="project-description">Aplicación multiplataforma para entusiastas del ciclismo con seguimiento de actividades, gestión de eventos y comunidad integrada.</p>
+        <div class="project-features">
+          <span class="feature">Seguimiento GPS</span>
+          <span class="feature">Eventos deportivos</span>
+          <span class="feature">Comunidad integrada</span>
+        </div>
+        <p class="project-tech">Flutter · Dart · Firebase · UI móvil</p>
+        <a class="project-link" href="https://github.com/ozunaluis872-png" target="_blank" rel="noopener noreferrer">
+          <i class="fab fa-github"></i> Ver en GitHub
+        </a>
+      </div>
+    </article>
+  </div>
+</section>
+
+<!-- EXPERIENCIA -->
+<section id="experiencia" class="section experience">
+  <h2 class="title">Experiencia y formación</h2>
+  <div class="card card-grid">
+    <div class="experience-item">
+      <h3>Proyectos SENA</h3>
+      <p>Desarrollo de soluciones web y móviles con enfoque en calidad, pruebas funcionales y entrega de software confiable.</p>
+    </div>
+    <div class="experience-item">
+      <h3>Formación profesional</h3>
+      <p>Técnico en Análisis y Desarrollo de Software con competencias en análisis de requerimientos, modelado de datos y desarrollo de aplicaciones.</p>
+    </div>
+  </div>
+</section>
+
+<!-- CERTIFICACIONES -->
+<section id="certificaciones" class="section certifications">
+  <h2 class="title">Certificaciones</h2>
+  <div class="card">
+    <ul>
+      <li>Tecnólogo ADSO - SENA</li>
+      <li>Curso SQL</li>
+      <li>Curso Flutter</li>
+      <li>Curso ASP.NET MVC</li>
+      <li>Curso PostgreSQL</li>
+    </ul>
+  </div>
+</section>
+
+<!-- CONTACTO -->
+<section id="contacto" class="section contact">
+  <h2 class="title">Contacto</h2>
+  <div class="contact-grid">
+    <div class="contact-card">
+      <h3>¿Quieres trabajar conmigo?</h3>
+      <p>Estoy disponible para proyectos de desarrollo full stack, aplicaciones móviles y consultoría de software.</p>
+      <a class="button primary" href="mailto:Ozunaluis872@gmail.com">Enviar email</a>
+    </div>
+    <div class="contact-card">
+      <h3>WhatsApp</h3>
+      <p>Conecta directamente para hablar sobre tus ideas de software y solicitudes de desarrollo.</p>
+      <a class="button secondary" href="https://wa.me/573004177979?text=Hola%20Luis,%20vi%20tu%20portafolio%20y%20estoy%20interesado%20en%20desarrollar%20un%20proyecto%20de%20software.%20Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20los%20servicios%20que%20ofreces,%20tu%20experiencia%20y%20c%C3%B3mo%20podr%C3%ADamos%20colaborar%20para%20llevar%20esta%20idea%20a%20cabo.%20%C2%BFTienes%20disponibilidad%20para%20una%20llamada%20o%20reuni%C3%B3n?
+" target="_blank" rel="noopener noreferrer">Abrir chat</a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer class="footer">
+  <p>Portafolio profesional de Luis Ozuna | Desarrollador de Software</p>
 </footer>
 
 </body>
