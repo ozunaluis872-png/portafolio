@@ -15,14 +15,14 @@
 Comunidad dedicada a aprender y compartir conocimientos en programación y tecnología. Estamos aquí para aprender juntos, compartir experiencias, resolver desafíos y ayudar a cada miembro para que alcance sus metas.
 
 ## Tecnologias 💻
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%68F2647.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP]
+![PHP](https://img.shields.io/badge/PHP-%3777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 <br/>
-![ASP.NET](https://img.shields.io/badge/ASP.NET-%2320232a.svg?style=for-the-badge&logo=ASP.NET&logoColor=%2361DAFB)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%3512BD4.svg?style=for-the-badge&logo=ASP.NET&logoColor=%2361DAFB)
 <br/>
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
