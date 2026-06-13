@@ -15,19 +15,31 @@
 Comunidad dedicada a aprender y compartir conocimientos en programación y tecnología. Estamos aquí para aprender juntos, compartir experiencias, resolver desafíos y ayudar a cada miembro para que alcance sus metas.
 
 ## Tecnologias 💻
-![HTML5](https://img.shields.io/badge/html5-%68F2647.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%3777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
-<br/>
-![ASP.NET](https://img.shields.io/badge/ASP.NET-%3512BD4.svg?style=for-the-badge&logo=ASP.NET&logoColor=%2361DAFB)
-<br/>
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgresql](https://img.shields.io/badge/Postgresql-%2300.svg?style=for-the-badge&logo=Potsgresql&logoColor=white)
 
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
+![C#](https://img.shields.io/badge/C_sharp-99CC00?style=for-the-badge&logo=sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4.svg?style=for-the-badge&logo=.NET&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![CMAKE](https://img.shields.io/badge/CMAKE-006BFF.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
+
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%34479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/Postgresql-4169E1.svg?style=for-the-badge&logo=Postgresql&logoColor=white)
+
+![GIT](https://img.shields.io/badge/GIT-F03C2E.svg?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GITHUB-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Las estadisticas del repositorio
-![Luis Ozuna GitHub stats](https://github-readme-stats.vercel.app/api?username=ozunaluis872-png&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozunaluis872-png&layout=compact&theme=dark)
+
+![Luis Ozuna GitHub stats](https://github-readme-stats.vercel.app/api?username=ozunaluis872-png&show_icons=true&theme=transparent) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozunaluis872-png&layout=compact&theme=transparent)
+
+
