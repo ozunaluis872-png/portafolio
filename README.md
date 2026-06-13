@@ -2,7 +2,7 @@
 
 # <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycTlubGdjOGxjcDNzc2E5OWpkN2pjMGN0YzZlazMzcG4yOWluYjZxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="100"/> Bienvenid@ al GitHub de Luis Ozuna
 
-![Banner de Luis Ozuna](banner-luis-ozuna.png)
+![Banner de Luis Ozuna](banner-luis.png)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@luisozuna2845)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@luis_ozuna182)
@@ -12,7 +12,9 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%235865F.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/573004177979?text=Hola%20Luis,%20vi%20tu%20portafolio%20y%20estoy%20interesado%20en%20desarrollar%20un%20proyecto%20de%20software.%20Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20los%20servicios%20que%20ofreces,%20tu%20experiencia%20y%20c%C3%B3mo%20podr%C3%ADamos%20colaborar%20para%20llevar%20esta%20idea%20a%20cabo.%20%C2%BFTienes%20disponibilidad%20para%20una%20llamada%20o%20reuni%C3%B3n?
 )
 
-Comunidad dedicada a aprender y compartir conocimientos en programación y tecnología. Estamos aquí para aprender juntos, compartir experiencias, resolver desafíos y ayudar a cada miembro para que alcance sus metas.
+Desarrollador de software apasionado por la tecnología y el aprendizaje continuo. En este espacio comparto algunos de mis proyectos, experiencias y conocimientos adquiridos durante mi formación y desarrollo profesional.
+
+Me gusta transformar ideas en soluciones funcionales, explorar nuevas tecnologías y mejorar constantemente mis habilidades en desarrollo web, móvil y bases de datos.
 
 ## Tecnologias 💻
 
