@@ -2,15 +2,15 @@
 
 # <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycTlubGdjOGxjcDNzc2E5OWpkN2pjMGN0YzZlazMzcG4yOWluYjZxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="100"/> Bienvenid@ al GitHub de Luis Ozuna
 
-![Banner de Luis Ozuna](banner-luis.png)
+![Banner de Luis Ozuna](banner.png)
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@luisozuna2845)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@luis_ozuna182)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luis.ozuna_19/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100059549266161)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luis.ozuna_19/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%235865F.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/573004177979?text=Hola%20Luis,%20vi%20tu%20portafolio%20y%20estoy%20interesado%20en%20desarrollar%20un%20proyecto%20de%20software.%20Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20los%20servicios%20que%20ofreces,%20tu%20experiencia%20y%20c%C3%B3mo%20podr%C3%ADamos%20colaborar%20para%20llevar%20esta%20idea%20a%20cabo.%20%C2%BFTienes%20disponibilidad%20para%20una%20llamada%20o%20reuni%C3%B3n?
 )
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@luisozuna2845)
+
 
 Desarrollador de software apasionado por la tecnología y el aprendizaje continuo. En este espacio comparto algunos de mis proyectos, experiencias y conocimientos adquiridos durante mi formación y desarrollo profesional.
 
